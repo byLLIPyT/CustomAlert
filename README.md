@@ -2,5 +2,5 @@
 Custom alert without storyboard
 
 Кастомный alert controller, без использования storyboard
+https://user-images.githubusercontent.com/14076206/126906873-62e3a60d-cb5a-4695-9529-0328f09c5754.mov
 
-![Watch the video](https://github.com/byLLIPyT/CustomAlert/blob/d6466a8c443e0ef87f462de28c7b3feed344ea92/Custom%20alert.mov)
