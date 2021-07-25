@@ -11,6 +11,7 @@
 		AB2FD50626ADA9B400E41BE3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2FD50526ADA9B400E41BE3 /* ViewController.swift */; };
 		AB2FD50B26ADA9B800E41BE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB2FD50A26ADA9B800E41BE3 /* Assets.xcassets */; };
 		AB2FD50E26ADA9B800E41BE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB2FD50C26ADA9B800E41BE3 /* LaunchScreen.storyboard */; };
+		AB2FD51A26ADB0D900E41BE3 /* CustomAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2FD51926ADB0D900E41BE3 /* CustomAlert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		AB2FD50A26ADA9B800E41BE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB2FD50D26ADA9B800E41BE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB2FD50F26ADA9B800E41BE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB2FD51926ADB0D900E41BE3 /* CustomAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				AB2FD50126ADA9B400E41BE3 /* AppDelegate.swift */,
 				AB2FD50526ADA9B400E41BE3 /* ViewController.swift */,
 				AB2FD50A26ADA9B800E41BE3 /* Assets.xcassets */,
+				AB2FD51926ADB0D900E41BE3 /* CustomAlert.swift */,
 				AB2FD50C26ADA9B800E41BE3 /* LaunchScreen.storyboard */,
 				AB2FD50F26ADA9B800E41BE3 /* Info.plist */,
 			);
@@ -130,6 +133,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB2FD51A26ADB0D900E41BE3 /* CustomAlert.swift in Sources */,
 				AB2FD50626ADA9B400E41BE3 /* ViewController.swift in Sources */,
 				AB2FD50226ADA9B400E41BE3 /* AppDelegate.swift in Sources */,
 			);
